@@ -1,4 +1,11 @@
 body{
-    background-color: #21252B;
+    
+    background-color: black;
     color:white;
+    font-family: Helvetica, sans-serif;
 }
+
+.page-container{
+    background-color: #282C34;
+}
+   
